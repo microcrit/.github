@@ -10,3 +10,5 @@
 
 I tamper with video games and Windows.   
 [See my reimplementation of Xorg (ab)using Windows API](https://github.com/microcrit/ash).
+
+![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
