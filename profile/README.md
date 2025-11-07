@@ -3,8 +3,7 @@
 # crit
 
 <div align="center">
-<pre><code>
-// 16 years old
+<pre><code>// 16 years old
    insufferable functional programming //
 </code></pre>
 </div>
