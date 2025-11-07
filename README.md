@@ -3,10 +3,10 @@
 # crit
 
 <div align="center">
-```
+<pre><code>
 // 16 years old
    insufferable functional programming //
-```
+</code></pre>
 </div>
 
 I tamper with video games and Windows.   
